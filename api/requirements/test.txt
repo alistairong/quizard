@@ -15,7 +15,7 @@ more-itertools==7.2.0
 multidict==4.5.2
 packaging==19.1
 pluggy==0.13.0
-py==1.8.0
+py==1.10.0
 pyparsing==2.4.2
 pysnooper==0.2.8
 pytest-sanic==1.0.0
